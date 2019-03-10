@@ -1,7 +1,17 @@
-#time{
-    font-size: 100px;
+body{
+    margin-top: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 15%;
 }
 
-.title{
-    font-size: 100px;
+h1{
+    font-family: cursive;
+    color: rgb(173, 149, 211);
+}
+
+.time{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 400%;
+    text-align: center;
 }
